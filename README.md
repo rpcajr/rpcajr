@@ -1,14 +1,3 @@
-![Ronan696](https://i.imgur.com/5i0MOZL.png "Ronan696")
-
-## About Me
-
-- A **Software Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
-- **Backend Developer** by day, _Indie Developer_ by night (well, sometimes :smile:) .
-- Experimenting with the **Frontend** as well and currently working on a Vue/Gridsome side-project.
-- Enjoys **automating tasks** to make life easier. Primarily with Python, but also occasionally with PowerShell.
-- Have a keen interest in designing, graphics and photo manipulation.
-
-
 ## Tech/Software Stack
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
@@ -34,36 +23,18 @@
 
 
 <p align="center">
-<a href="https://github.com/rpcajr">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rpcajr&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/rpcajr">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpcajr&layout=compact&theme=great-gatsby" />
-</a>
+<img src = "https://github-readme-stats.vercel.app/api?username=rpcajr&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rpcajr&theme=dark">
 </p>
 
 <hr/>
 
 <p align="center">
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ronan696/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ronan696"><img title="Twitter" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/twitter.svg"/></a>
-</p>
-
-<h3 align="center">Check out my work</h3>
-<p align="center">
-<a href="https://github.com/ronan696"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
-<a href="https://codepen.io/ronan696"><img title="CodePen" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/codepen.svg"/></a>&nbsp;&nbsp;
-<a href="https://dribbble.com/ronan696"><img title="Dribbble" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/dribbble.svg"/></a>
-</p>
-
-
 <h3 align="center">Follow me</h3>
 <p align="center">
-<a href="https://www.instagram.com/ronan696/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/ronan696/"><img title="Pinterest" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/pinterest.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/u/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+
+<a href="https://www.linkedin.com/in/rpcajr/"><img title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://github.com/ronan696"><img title="GitHub" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/github.svg"/></a>&nbsp;&nbsp;
 </p>
 </p>
