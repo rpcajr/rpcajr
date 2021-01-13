@@ -33,8 +33,7 @@
 
 <h3 align="center">Follow me</h3>
 <p align="center">
-
-<a href="https://www.linkedin.com/in/rpcajr/"><img title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://github.com/ronan696"><img title="GitHub" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/github.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/phillipe-couto-70655258/"><img height="30" width="30" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/linkedin.svg"/></a>
+<a href="https://github.com/rpcajr"><img  height="30" width="30"  title="GitHub" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/github.svg"/></a>
 </p>
 </p>
