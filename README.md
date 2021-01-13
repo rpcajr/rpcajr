@@ -23,7 +23,7 @@
 
 
 <p align="center">    
-    <img src = "https://github-readme-stats.vercel.app/api?username=rpcajr&show_icons=true&theme=dark&line_height=30">
+    <img src = "https://github-readme-stats.vercel.app/api?username=rpcajr&show_icons=true&theme=dark&line_height=40">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rpcajr&theme=dark">
     <hr/>    
     <h3 align="center">Follow me</h3>
