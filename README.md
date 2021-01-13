@@ -24,18 +24,17 @@
 <br/><br/>
 
 
-<p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=rpcajr&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rpcajr&theme=dark">
+<p align="center">    
+    <img src = "https://github-readme-stats.vercel.app/api?username=rpcajr&show_icons=true&theme=dark&line_height=40">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rpcajr&theme=dark">
+    <hr/>    
+    <h3 align="center">Follow me</h3>
+     <p align="center">
+       <a href="https://www.linkedin.com/in/phillipe-couto-70655258/"><img height="30" width="30" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/linkedin.svg"/></a>
+       <a href="https://github.com/rpcajr"><img  height="30" width="30"  title="GitHub" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/github.svg"/></a>
+    </p>
 </p>
 
-<hr/>
 
-<p align="center">
 
-<h3 align="center">Follow me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/phillipe-couto-70655258/"><img height="30" width="30" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/linkedin.svg"/></a>
-<a href="https://github.com/rpcajr"><img  height="30" width="30"  title="GitHub" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/github.svg"/></a>
-</p>
-</p>
+
