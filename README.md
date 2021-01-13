@@ -1,6 +1,6 @@
-<img title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/couto.svg"/>
-
 ## Tech/Software Stack
+
+<img width="350px" height="350px" align="right" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/couto.svg"/>
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&logo=Spring&message=Spring&label=&color=6DB33F&labelColor=000000)
