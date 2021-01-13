@@ -1,7 +1,6 @@
 ## Tech/Software Stack
 
-<img width="350px" height="350px" align="right" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/couto.svg"/>
-<br/><br/>
+<p align="center">
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&logo=Spring&message=Spring&label=&color=6DB33F&labelColor=000000)
@@ -22,6 +21,8 @@
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
 ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=2C2255&labelColor=000000)
 ![Intellij](https://img.shields.io/static/v1?style=for-the-badge&logo=Intellij-IDEA&message=Intellij&label=&color=0a63df&labelColor=000000)
+<img width="300px" height="300px" align="right" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/couto.svg"/>
+</p>
 <br/><br/>
 
 
