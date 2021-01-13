@@ -1,4 +1,6 @@
+<p align="center">
 <img width="300px" height="300px" align="center" title="LinkedIn" src="https://raw.githubusercontent.com/rpcajr/rpcajr/master/images/couto.svg"/>
+</p>
 
 ## Tech/Software Stack
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
