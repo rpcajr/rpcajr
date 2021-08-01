@@ -6,6 +6,7 @@
 
 **Languages**
 
+![C-Sharp](https://img.shields.io/static/v1?style=for-the-badge&logo=csharp&message=C%20Sharp&label=&color=239120&labelColor=000000)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB4&labelColor=000000)
 ![Delphi](https://img.shields.io/static/v1?style=for-the-badge&logo=Delphi&message=Delphi&label=&color=EE1F35&labelColor=000000)
@@ -18,6 +19,7 @@
 
 **Frameworks**
 
+![DotNet](https://img.shields.io/static/v1?style=for-the-badge&logo=dotnet&message=.Net&label=&color=512BD4&labelColor=000000)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&logo=Spring&message=Spring&label=&color=6DB33F&labelColor=000000)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&logo=vue.js&message=Vue.js&label=&color=4FC08D&labelColor=000000)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&logo=angular&message=Angular&label=&color=DD0031&labelColor=000000)
@@ -39,8 +41,9 @@
 
 **Tools**
 
-![Intellij](https://img.shields.io/static/v1?style=for-the-badge&logo=Intellij-IDEA&message=Intellij&label=&color=0a63df&labelColor=000000)
+![VS](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio&message=Visual%20Studio&label=&color=007ACC&labelColor=000000)
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
+![Intellij](https://img.shields.io/static/v1?style=for-the-badge&logo=Intellij-IDEA&message=Intellij&label=&color=0a63df&labelColor=000000)
 ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&logo=Eclipse-IDE&message=Eclipse%20IDE&label=&color=2C2255&labelColor=000000)
 <br/>
 
